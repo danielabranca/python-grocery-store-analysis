@@ -80,6 +80,6 @@ Seasonal trends suggest stock optimization for winter months
 ### 💬 Author
 
 [Daniela Branca] — Data Analyst | Portfolio Project for CareerFoundry
-📧 [dfcanhaesa@gmail.com]
+📧 [https://www.linkedin.com/in/daniela-branca/]
 📍 Tools: Python | Jupyter | Pandas | Matplotlib | Seaborn
 
